@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1300
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChaoNanTools", "ChaoNanTools\ChaoNanTools.csproj", "{A82E2B58-1B88-454C-8D7A-D166BA37EE99}"
-EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{CD4FFCE7-3B53-4D3C-AD39-E5FDDC4D7878}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,8 +15,6 @@ Global
 		{A82E2B58-1B88-454C-8D7A-D166BA37EE99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A82E2B58-1B88-454C-8D7A-D166BA37EE99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A82E2B58-1B88-454C-8D7A-D166BA37EE99}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CD4FFCE7-3B53-4D3C-AD39-E5FDDC4D7878}.Debug|Any CPU.ActiveCfg = Debug
-		{CD4FFCE7-3B53-4D3C-AD39-E5FDDC4D7878}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -184,7 +184,7 @@
                         <ColumnDefinition Width="*"/>
                         <ColumnDefinition Width="*"/>
                     </Grid.ColumnDefinitions>
-                    <Button Name="ChooseAudioButton" Grid.Column="0" Grid.Row="0" Content="选择音频文件" Width="200" Height="50" Click="ChooseAudioButton_Click"></Button>
+                    <Button Name="ChooseAudioButton" Grid.Column="0" Grid.Row="0" Content="选择音频文件" Width="200" Height="50" Click="ChooseAudioButton_Click" Margin="10,10,263.6,231.2"></Button>
                     <Label Name="AudioPath" Grid.Column="1" Grid.Row="0" Content="" HorizontalAlignment="Center" VerticalAlignment="Center"/>
                 </Grid>
             </TabItem>
